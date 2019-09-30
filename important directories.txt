@@ -1,0 +1,2 @@
+gallery
+hugo-academic\content\home\gallery\gallery
